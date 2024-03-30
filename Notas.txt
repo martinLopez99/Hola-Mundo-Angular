@@ -1,0 +1,12 @@
+Nota para la siguiente clase
+En la próxima clase usaremos este endpoint para realizar peticiones:
+
+https://restcountries.eu
+
+El cual ya no existe, ahora deben de usar este:
+
+https://restcountries.com/
+
+
+
+Es todo! :)
